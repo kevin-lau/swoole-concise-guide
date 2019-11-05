@@ -186,3 +186,6 @@ extension=swoole.so
 ```
 随后在终端中输入命令`php -m`查看扩展安装情况。如果在列出的扩展中看到了swoole，则说明安装成功。
 All Done! Use `php -m` to list all the extensions and see if swoole is around.
+# 
+Installing shared extensions:     /usr/local/Cellar/php@7.2/7.2.23/lib/php/20170718/
+Installing header files:          /usr/local/Cellar/php@7.2/7.2.23/include/php/
